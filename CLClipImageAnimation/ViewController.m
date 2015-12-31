@@ -43,7 +43,7 @@ typedef void (^Complete) ();
     
     self.automaticallyAdjustsScrollViewInsets = YES;
     
-    NSArray * array = @[@"4.jpg",@"12.jpg",@"15.jpg",@"13.jpg",@"12.jpg",@"15.jpg"];
+    NSArray * array = @[@"top.jpg"];
     UIScrollView * scrollView = [[UIScrollView alloc]initWithFrame:CGRectMake(0, 64,kWidth, 200)];
     scrollView.contentSize = CGSizeMake(kWidth * array.count, 200);
     scrollView.backgroundColor = [UIColor clearColor];

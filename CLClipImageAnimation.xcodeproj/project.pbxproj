@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5603AACE1C351E1300F752E4 /* 20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5603AACD1C351E1300F752E4 /* 20.jpg */; };
+		5603AAD01C35213000F752E4 /* top.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5603AACF1C35213000F752E4 /* top.jpg */; };
 		56F45BC41C34CB6F00EDFDFB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 56F45BC31C34CB6F00EDFDFB /* main.m */; };
 		56F45BC71C34CB6F00EDFDFB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 56F45BC61C34CB6F00EDFDFB /* AppDelegate.m */; };
 		56F45BCA1C34CB6F00EDFDFB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 56F45BC91C34CB6F00EDFDFB /* ViewController.m */; };
@@ -24,7 +26,6 @@
 		56F45C031C34F8B800EDFDFB /* 18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 56F45BEE1C34F8B800EDFDFB /* 18.jpg */; };
 		56F45C041C34F8B800EDFDFB /* 19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 56F45BEF1C34F8B800EDFDFB /* 19.jpg */; };
 		56F45C051C34F8B800EDFDFB /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 56F45BF01C34F8B800EDFDFB /* 2.jpg */; };
-		56F45C061C34F8B800EDFDFB /* 20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 56F45BF11C34F8B800EDFDFB /* 20.jpg */; };
 		56F45C071C34F8B800EDFDFB /* 21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 56F45BF21C34F8B800EDFDFB /* 21.jpg */; };
 		56F45C081C34F8B800EDFDFB /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 56F45BF31C34F8B800EDFDFB /* 3.jpg */; };
 		56F45C091C34F8B800EDFDFB /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 56F45BF41C34F8B800EDFDFB /* 4.jpg */; };
@@ -37,6 +38,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5603AACD1C351E1300F752E4 /* 20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20.jpg; sourceTree = "<group>"; };
+		5603AACF1C35213000F752E4 /* top.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = top.jpg; sourceTree = "<group>"; };
 		56F45BBF1C34CB6F00EDFDFB /* CLClipImageAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CLClipImageAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56F45BC31C34CB6F00EDFDFB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		56F45BC51C34CB6F00EDFDFB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -60,7 +63,6 @@
 		56F45BEE1C34F8B800EDFDFB /* 18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18.jpg; sourceTree = "<group>"; };
 		56F45BEF1C34F8B800EDFDFB /* 19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 19.jpg; sourceTree = "<group>"; };
 		56F45BF01C34F8B800EDFDFB /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
-		56F45BF11C34F8B800EDFDFB /* 20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20.jpg; sourceTree = "<group>"; };
 		56F45BF21C34F8B800EDFDFB /* 21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 21.jpg; sourceTree = "<group>"; };
 		56F45BF31C34F8B800EDFDFB /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
 		56F45BF41C34F8B800EDFDFB /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
@@ -143,6 +145,8 @@
 		56F45BE41C34F8B800EDFDFB /* girls */ = {
 			isa = PBXGroup;
 			children = (
+				5603AACF1C35213000F752E4 /* top.jpg */,
+				5603AACD1C351E1300F752E4 /* 20.jpg */,
 				56F45BE51C34F8B800EDFDFB /* 1.jpg */,
 				56F45BE61C34F8B800EDFDFB /* 10.jpg */,
 				56F45BE71C34F8B800EDFDFB /* 11.jpg */,
@@ -155,7 +159,6 @@
 				56F45BEE1C34F8B800EDFDFB /* 18.jpg */,
 				56F45BEF1C34F8B800EDFDFB /* 19.jpg */,
 				56F45BF01C34F8B800EDFDFB /* 2.jpg */,
-				56F45BF11C34F8B800EDFDFB /* 20.jpg */,
 				56F45BF21C34F8B800EDFDFB /* 21.jpg */,
 				56F45BF31C34F8B800EDFDFB /* 3.jpg */,
 				56F45BF41C34F8B800EDFDFB /* 4.jpg */,
@@ -244,10 +247,11 @@
 				56F45BFD1C34F8B800EDFDFB /* 12.jpg in Resources */,
 				56F45C001C34F8B800EDFDFB /* 15.jpg in Resources */,
 				56F45C0C1C34F8B800EDFDFB /* 7.jpg in Resources */,
-				56F45C061C34F8B800EDFDFB /* 20.jpg in Resources */,
+				5603AAD01C35213000F752E4 /* top.jpg in Resources */,
 				56F45C081C34F8B800EDFDFB /* 3.jpg in Resources */,
 				56F45BFA1C34F8B800EDFDFB /* 1.jpg in Resources */,
 				56F45C011C34F8B800EDFDFB /* 16.jpg in Resources */,
+				5603AACE1C351E1300F752E4 /* 20.jpg in Resources */,
 				56F45C041C34F8B800EDFDFB /* 19.jpg in Resources */,
 				56F45C0D1C34F8B800EDFDFB /* 8.jpg in Resources */,
 				56F45BFC1C34F8B800EDFDFB /* 11.jpg in Resources */,
@@ -361,7 +365,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/Charles/Desktop/CLClipImageAnimation/CLClipImageAnimation/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/CLClipImageAnimation/PrefixHeader.pch";
 				INFOPLIST_FILE = CLClipImageAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hdsxtech.CLClipImageAnimation;
@@ -374,7 +378,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/Charles/Desktop/CLClipImageAnimation/CLClipImageAnimation/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/CLClipImageAnimation/PrefixHeader.pch";
 				INFOPLIST_FILE = CLClipImageAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hdsxtech.CLClipImageAnimation;
@@ -401,6 +405,7 @@
 				56F45BD81C34CB6F00EDFDFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
